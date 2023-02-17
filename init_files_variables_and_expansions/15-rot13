@@ -1,0 +1,2 @@
+#!/bin/bash
+tr [a-z,A-Z] [n-m,N-M] | tr [n-m,N-M] [a-z,A-Z]
